@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		4ED2E25C215E1E1A00E2084A /* JSONTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED2E25B215E1E1A00E2084A /* JSONTest.swift */; };
+		6FD98CEF2479C66700F73C61 /* SwifterStreaming.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FD98CEE2479C66700F73C61 /* SwifterStreaming.swift */; };
+		6FD98CF02479C66700F73C61 /* SwifterStreaming.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FD98CEE2479C66700F73C61 /* SwifterStreaming.swift */; };
 		8B116AF1194601970019A4DC /* SwifterHTTPRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B116AF0194601970019A4DC /* SwifterHTTPRequest.swift */; };
 		8B116AF2194601970019A4DC /* SwifterHTTPRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B116AF0194601970019A4DC /* SwifterHTTPRequest.swift */; };
 		8B1F259F194A663D004BD304 /* SwifterHelp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B1F259E194A663D004BD304 /* SwifterHelp.swift */; };
@@ -154,6 +156,7 @@
 
 /* Begin PBXFileReference section */
 		4ED2E25B215E1E1A00E2084A /* JSONTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONTest.swift; sourceTree = "<group>"; };
+		6FD98CEE2479C66700F73C61 /* SwifterStreaming.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwifterStreaming.swift; sourceTree = "<group>"; };
 		8B116AF0194601970019A4DC /* SwifterHTTPRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwifterHTTPRequest.swift; sourceTree = "<group>"; };
 		8B1F259E194A663D004BD304 /* SwifterHelp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = SwifterHelp.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8B300C1F1944AA1A00993175 /* SwifterDemoiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwifterDemoiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -353,6 +356,7 @@
 				8BF1D6781948839800E3AA64 /* SwifterPlaces.swift */,
 				8BC32D3C1955EEE100FF75A0 /* SwifterTrends.swift */,
 				8BF1D67B1948882700E3AA64 /* SwifterSpam.swift */,
+				6FD98CEE2479C66700F73C61 /* SwifterStreaming.swift */,
 				8B1F259E194A663D004BD304 /* SwifterHelp.swift */,
 				A1BDB38A1D4C859200B0080F /* SwifterTag.swift */,
 				A1AA8AFE1D5C50AE00CE7F17 /* SwifterError.swift */,
@@ -664,6 +668,7 @@
 				8B9F51531944A8DC00894629 /* String++.swift in Sources */,
 				8BF1D67C1948882700E3AA64 /* SwifterSpam.swift in Sources */,
 				8BCF431A19475D3C00E63301 /* SwifterSearch.swift in Sources */,
+				6FD98CEF2479C66700F73C61 /* SwifterStreaming.swift in Sources */,
 				8B33CA3F19587C6D00739FCB /* JSON.swift in Sources */,
 				8BCF432C1947CED700E63301 /* SwifterLists.swift in Sources */,
 				8BA50EC71953828A00FB1829 /* SwifterAppOnlyClient.swift in Sources */,
@@ -707,6 +712,7 @@
 				8B9F51541944A8DC00894629 /* String++.swift in Sources */,
 				8BF1D67D1948882700E3AA64 /* SwifterSpam.swift in Sources */,
 				8BCF431B19475D3C00E63301 /* SwifterSearch.swift in Sources */,
+				6FD98CF02479C66700F73C61 /* SwifterStreaming.swift in Sources */,
 				8B33CA4019587C6D00739FCB /* JSON.swift in Sources */,
 				8BCF432D1947CED700E63301 /* SwifterLists.swift in Sources */,
 				8BA50EC81953828A00FB1829 /* SwifterAppOnlyClient.swift in Sources */,
